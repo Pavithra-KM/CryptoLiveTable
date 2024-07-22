@@ -1,0 +1,21 @@
+.dropdown {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+table {
+  margin-top: 8px;
+}
+
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+tr {
+  text-align: center;
+}
+
+td, th {
+  padding: 10px;
+}
