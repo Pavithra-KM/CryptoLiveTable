@@ -25,3 +25,26 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**
    ```sh
    git clone https://github.com/Pavithra-KM/CryptoLiveTable.git
+2. **Navigate into the project directory**
+   ```sh
+   cd CryptoLiveTable
+3. **Install dependencies**
+   ```sh
+   npm install
+3. **Run the development server**
+   ```sh
+   npm run dev
+
+### Backend Setup
+
+1. **Navigate into the Backend directory**
+   ```sh
+   cd Backend
+2. **Install backend dependencies**
+   ```sh
+   npm install
+3. **Start the backend server**
+   ```sh
+   node server.js
+
+   
