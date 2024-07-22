@@ -1,37 +1,27 @@
 # CryptoLiveTable
 
-## Installation
+CryptoLiveTable is a web application for live tracking cryptocurrency data. This project is built with a combination of frontend and backend technologies to provide real-time updates on cryptocurrency prices.
 
-Step-by-step instructions on how to get a development environment running.
+## Table of Contents
 
-```bash
-# Clone the repository
-git clone https://github.com/Pavithra-KM/CryptoLiveTable.git
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Backend Setup](#backend-setup)
 
-# Navigate into the project directory
-cd CryptoLiveTable
+## Getting Started
 
-# Install dependencies
-npm install
+Follow these steps to set up and run the project locally.
 
-# Run command
-npm run dev
+### Prerequisites
 
-# Navigate into the project directory
-cd Backend
+Ensure you have the following installed on your system:
+- [Node.js](https://nodejs.org/)
+- [NPM](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/)
 
-# Install dependencies
-npm install
+### Installation
 
-# Install dependencies
-node server.js
-
-## Acknowledgements
-
-List of acknowledgements, inspirations, and resources used.
-- Node.js
-- Express
-- NPM
-- MongoDB
-- React JS
-- Redux 
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/Pavithra-KM/CryptoLiveTable.git
