@@ -19,6 +19,8 @@ Ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+- [ReactJS](https://react.dev/)
+- [Redux](https://react-redux.js.org/)
 
 ### Installation
 
